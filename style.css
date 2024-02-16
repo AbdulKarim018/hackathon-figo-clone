@@ -1,0 +1,18 @@
+.reason-card {
+  border-bottom: 2px solid transparent;
+}
+
+.reason-card:hover {
+  border-bottom: 2px solid green;
+}
+
+.menu-item{
+    border-left: 3px solid rgba(128, 128, 128, 0.5);
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.menu-item:hover{
+    color: #f8b400;
+    border-left: 3px solid #f8b400;
+}
